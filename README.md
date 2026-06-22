@@ -38,3 +38,11 @@ This project consists of:
    ```
 
 4. Open [http://localhost:8080](http://localhost:8080) in your browser.
+
+## Future Enhancements
+
+- AI-based crop residue availability prediction
+- Real-time marketplace for biomass trading
+- Carbon credit tracking and sustainability reporting
+- Integration with government subsidy schemes
+- Analytics dashboard for farmers and biochar producers
